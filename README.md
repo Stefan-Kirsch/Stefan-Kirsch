@@ -3,7 +3,7 @@ My focus is .NET development, backend as well as frontend.
 
 I offer the following development services:
 - Native Windows app development as well as cross-platform apps for Android and iOS 
-- UI development using XAML based frameworks (WPF, UWP, WinUI 3 and Xamarin)
+- UI development using XAML based frameworks (WPF, UWP, WinUI 3, Xamarin and MAUI)
 - Development of cloud solutions with Azure
 - Working with agile development methods (Scrum and Kanban)
 
