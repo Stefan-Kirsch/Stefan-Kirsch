@@ -1,4 +1,4 @@
-Hi, I'm Stefan Kirsch, working as a C# software freelancer in germany.
+Hi, I'm Stefan Kirsch, working as a C# software freelancer in Germany.
 My focus is .NET development, backend as well as frontend.
 
 I offer the following development services:
